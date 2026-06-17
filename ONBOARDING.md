@@ -135,8 +135,29 @@
 
 > 不上传任何数据到服务器。你的健康数据只属于你。
 
+### 方式一：克隆仓库（推荐）
+
+```bash
+git clone https://github.com/971883711-Maddie/running-coach.git
+cd running-coach
+cat README.md  # 照着走
+```
+
+### 方式二：直接下载
+
+打开仓库页面，点 **Code → Download ZIP**，解压后看 `README.md`。
+
+> 仓库地址：**https://github.com/971883711-Maddie/running-coach**
+
+所有脚本用 Python 3 运行，Mac/Windows/Linux 都自带，零额外依赖。
+
 ---
 
 **跑步这件事，慢一点没关系，别受伤才是最重要的。**
 
 诊断清楚了再开跑，你会发现每一步都踏实得多。
+
+---
+
+> 如果这个工具帮到了你，欢迎去仓库点个 ⭐ Star，让更多跑者看到。
+> 有问题或建议，可以在仓库提 Issue，我会持续更新。
